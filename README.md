@@ -11,3 +11,6 @@ This project was an excellent opportunity to apply my skills in React, CSS, and 
 Feel free to explore Juicy Crush here: [https://github.com/Shakinya/JuicyCrush] 🍍 Let me know what you think or drop your suggestions in the comments! Your feedback would mean a lot. 🙌
 
 #JuicyCrush #WebDesign #FrontendDevelopment #ReactJS #UIUX #WebsiteLaunch
+
+![Screenshot 2024-09-24 124957](https://github.com/user-attachments/assets/e510074e-75bf-4389-829a-51ea5f6cda0c)
+
