@@ -8,4 +8,6 @@ With Juicy Crush, I aimed to balance aesthetics with functionality—smooth anim
 
 This project was an excellent opportunity to apply my skills in React, CSS, and modern design principles while exploring new techniques in web development. I’ve learned so much along the way, and I’m excited to continue building innovative and user-focused web solutions.
 
-Feel free to explore Juicy Crush here: [link] 🍍 Let me know what you think or drop your suggestions in the comments! Your feedback would mean a lot. 🙌 #JuicyCrush #WebDesign #FrontendDevelopment #ReactJS #UIUX #WebsiteLaunch
+Feel free to explore Juicy Crush here: [https://github.com/Shakinya/JuicyCrush] 🍍 Let me know what you think or drop your suggestions in the comments! Your feedback would mean a lot. 🙌
+
+#JuicyCrush #WebDesign #FrontendDevelopment #ReactJS #UIUX #WebsiteLaunch
