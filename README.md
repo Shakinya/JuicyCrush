@@ -6,7 +6,7 @@ I’m excited to share my latest project, Juicy Crush, a fresh and dynamic websi
 
 With Juicy Crush, I aimed to balance aesthetics with functionality—smooth animations, intuitive navigation, and a clean layout that works across all devices. I carefully crafted the color palette to reflect the freshness and energy of the brand, creating a fun and engaging experience for users. 💻✨
 
-This project was an excellent opportunity to apply my skills in React, CSS, and modern design principles while exploring new techniques in web development. I’ve learned so much along the way, and I’m excited to continue building innovative and user-focused web solutions.
+This project was an excellent opportunity to apply my skills in Html, CSS, Javascript and modern design principles while exploring new techniques in web development. I’ve learned so much along the way, and I’m excited to continue building innovative and user-focused web solutions.
 
 Feel free to explore Juicy Crush here: [https://github.com/Shakinya/JuicyCrush] 🍍 Let me know what you think or drop your suggestions in the comments! Your feedback would mean a lot. 🙌
 
